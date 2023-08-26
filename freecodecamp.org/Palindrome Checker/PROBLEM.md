@@ -1,6 +1,7 @@
 # Palindrome Checker
 
 ![xiaoxinghai](https://cdn.pixabay.com/photo/2016/10/25/23/54/not-found-1770320_1280.jpg)
+
 Return `true` if the given string is a palindrome. Otherwise, return `false`.
 
 A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
@@ -38,3 +39,9 @@ We'll also pass strings with special symbols, such as `2A3*3a2`, `2A3 3a2`, and 
 - `palindrome("0_0 (: /-\ :) 0-0")` should return `true`.
 
 - `palindrome("five|\_/|four")` should return `false`.
+
+## Solutions
+
+- [Solution by me](https://github.com/AykhanM/JavaScript-Mastery-Lab/blob/master/freecodecamp.org/Palindrome%20Checker/palindrome.js)
+- [Solution by AI](https://github.com/AykhanM/JavaScript-Mastery-Lab/blob/master/freecodecamp.org/Palindrome%20Checker/solutionAI.js)
+- [Solution by yazeedb](https://github.com/AykhanM/JavaScript-Mastery-Lab/blob/master/freecodecamp.org/Palindrome%20Checker/solutionByYazeedb.js)
