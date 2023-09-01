@@ -22,6 +22,6 @@ Given an integer `n`, return a `counter` function. This `counter` function initi
 
 - [Detailed information about Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
--[Increment (++)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment)
+- [Increment (++)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment)
 
 - [Solution and explanation](https://www.youtube.com/watch?v=yEGQQAG5V68&t=1s)
