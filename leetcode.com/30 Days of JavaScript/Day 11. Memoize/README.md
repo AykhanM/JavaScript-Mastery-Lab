@@ -1,8 +1,10 @@
-## [2623. Memoize](https://leetcode.com/problems/memoize/)![memoize](https://media.geeksforgeeks.org/wp-content/uploads/20220624154237/WhatisMemoizationACompletetutorial5-660x310.jpg)
+## [2623. Memoize](https://leetcode.com/problems/memoize/)
+
+![memoize](https://media.geeksforgeeks.org/wp-content/uploads/20220624154237/WhatisMemoizationACompletetutorial5-660x310.jpg)
 
 Given a function `fn`, return a **memoized** version of that function.
 
-A **memoized** function is a function that will never be called twice with the same inputs. Instead it will return a cached value.
+A **memoized** function is a function that will never be called twice with the same inputs. Instead, it will return a cached value.
 
 You can assume there are **3** possible input functions: `sum`**,** `fib`**,** and `factorial`**.**
 
@@ -31,3 +33,7 @@ You can assume there are **3** possible input functions: `sum`**,** `fib`**,** a
 - `input function is sum, fib, or factorial`
 
 **Resources for the solution**
+- [My solution](https://github.com/AykhanM/JavaScript-Mastery-Lab/blob/master/leetcode.com/30%20Days%20of%20JavaScript/Day%2011.%20Memoize/memoize.js)
+- [Solution inspired by NeetCode](https://github.com/AykhanM/JavaScript-Mastery-Lab/blob/master/leetcode.com/30%20Days%20of%20JavaScript/Day%2011.%20Memoize/solution.js)
+- [What is Memoization?](https://www.freecodecamp.org/news/memoization-in-javascript-and-react/)
+- [Explanation by NeetCode](https://youtu.be/oFXyzJt9VeU?si=wfc4Is7pjCZuCo72)
